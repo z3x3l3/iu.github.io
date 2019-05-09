@@ -1,0 +1,26 @@
+/* 通配符选择器 代表选择所有标签 */
+* {
+  /* 外边距 */
+  margin: 0 0;
+  /* 内边距     */
+  padding: 0 0;
+}
+a {
+  text-decoration: none;
+  color: #888;
+}
+a:hover {
+  color: #f40;
+}
+
+
+
+/* 标签选择器，代表选中ul */
+ul {
+  /* 去掉无序列表前面的原点 */
+  list-style: none;
+}
+
+.f40 {
+  color: #f40;
+}
